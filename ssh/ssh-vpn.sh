@@ -175,7 +175,7 @@ cd
 mkdir /home/vps
 mkdir /home/vps/public_html
 wget -O /home/vps/public_html/index.html "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/index"
-wget -O /home/vps/public_html/.htaccess "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/.htaccess"
+wget -O /home/vps/public_html/.htaccess "https://raw.githubusercontent.com/jubairbro/AUTO-SCRIPT/master/ssh/.htaccess"
 mkdir /home/vps/public_html/ss-ws
 mkdir /home/vps/public_html/clash-ws
 # install badvpn
@@ -343,7 +343,7 @@ wget -O delete "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master
 wget -O autokill "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/autokill.sh"
 wget -O ceklim "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/ceklim.sh"
 wget -O tendang "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/tendang.sh"
-wget -O sshws "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/sshws.sh"
+wget -O sshws "https://raw.githubusercontent.com/jubairbro/AUTO-SCRIPT/master/ssh/sshws.sh"
 wget -O user-lock "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/user-lock.sh"
 wget -O user-unlock "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/user-unlock.sh"
 
@@ -358,7 +358,7 @@ wget -O restart "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/maste
 wget -O bw "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/menu/bw.sh"
 wget -O m-tcp "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/menu/tcp.sh"
 wget -O xp "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/xp.sh"
-wget -O sshws "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/ssh/sshws.sh"
+wget -O sshws "https://raw.githubusercontent.com/jubairbro/AUTO-SCRIPT/master/ssh/sshws.sh"
 wget -O m-dns "https://raw.githubusercontent.com/mdr77m-star/AUTO-SCRIPT/master/menu/m-dns.sh"
 
 chmod +x menu
