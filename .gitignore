@@ -1,0 +1,6 @@
+# VPS runtime artifacts (never commit)
+log-install.txt
+/root/
+*.log
+.DS_Store
+*.swp
